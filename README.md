@@ -27,14 +27,14 @@ SkyPulse to aplikacja mobilna stworzona we Flutterze, która pozwala na monitoro
 ## 📸 Zrzuty ekranu
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9642354c-d384-4587-a6ea-89b5363a0127" width="220" alt="Ekran główny"/>
-  <img src="https://github.com/user-attachments/assets/6903da69-e6b8-477e-bb78-d49b31ddad38" width="220" alt="Ekran pogody"/>
-  <img src="https://github.com/user-attachments/assets/91384b2c-1788-4f0c-af92-59df90a33529" width="220" alt="Ekran jakości powietrza"/>
+  <img src="https://github.com/user-attachments/assets/bb0c16ba-d851-46c4-abc6-013b956cf830" width="220" alt="Ekran pierwszego uruchomienia"/>
+  <img src="https://github.com/user-attachments/assets/3586f1ba-a4cd-42a8-9768-15ed44af8247" width="220" alt="Ekran uprawnień lokalizacji"/>
+  <img src="https://github.com/user-attachments/assets/300e84e8-b17f-4327-bd88-3ebb5f2945a3" width="220" alt="Ekran ładowania (splash-screen)"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/01af0474-b032-4ad7-bfaa-cf2aa44e4ed5" width="220" alt="Ekran zgody na lokalizację"/>
-  <img src="https://github.com/user-attachments/assets/90063d3f-6ab1-4600-ab26-1de1a8c54da3" width="220" alt="Splash screen"/>
+  <img src="https://github.com/user-attachments/assets/7c8af30a-0a1f-4e8b-b5cd-46789143dafb" width="220" alt="Ekran jakości powietrza"/>
+  <img src="https://github.com/user-attachments/assets/b1e68978-bba8-4706-8cad-f0a2952849e0" width="220" alt="Ekran pogody"/>
 </p>
 
 ---
